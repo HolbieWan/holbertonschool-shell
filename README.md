@@ -1,2 +1,2 @@
 # holbertonschool-shell
-Shell basics
+Shell basics test
